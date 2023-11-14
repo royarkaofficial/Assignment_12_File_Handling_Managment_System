@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\bin\Debug\ConApp_File_Handle_Official.exe.config
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\bin\Debug\ConApp_File_Handle_Official.exe
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\bin\Debug\ConApp_File_Handle_Official.pdb
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\obj\Debug\ConApp_File_Handle_Official.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\obj\Debug\ConApp_File_Handle_Official.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\obj\Debug\ConApp_File_Handle_Official.exe
+D:\Mphasis-B2\Day-7\ConApp_File_Handle_Official\ConApp_File_Handle_Official\obj\Debug\ConApp_File_Handle_Official.pdb
